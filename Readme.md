@@ -2,16 +2,20 @@
 
 ## Contents
 
-* Slides for introduction in AI science
+### AI intro
 
-* AI in Computer Vision
-** Detect a face
-** Understanding DNN features
-** Training a Model to predict Men or women
-** Prediction in realtime
+* Introduction to science behind AI
+* Use-cases
 
-* NLP
+### AI in Computer Vision
+
+* Detect a face
+* Understanding DNN features
+* Training a Model to predict Men or women
+* Prediction in realtime
 
 ## Blogs & Research Links
 
-## Additional Resources
+* [Lenet code](http://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/)
+* [CNN concepts](http://www.pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/)
+
