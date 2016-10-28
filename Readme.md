@@ -18,6 +18,11 @@
 
 * [Lenet code](http://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/)
 * [CNN concepts](http://www.pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/)
+* [Face image recognition](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)
+* [Amazon Alexa](https://developer.amazon.com/alexa)
+* [Personal Assistants](http://www.predictiveanalyticstoday.com/top-intelligent-personal-assistants-automated-personal-assistants/)
+* [Google Home](https://madeby.google.com/home/)
+* [Swiftkey](https://swiftkey.com/en)
 
 ## Participation Guidelines
 
